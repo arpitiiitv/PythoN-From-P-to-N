@@ -7,10 +7,10 @@ for item in myList:
     if(item%2==0):
         print(item ," is even")
 
-ii=0
-while ii < len(myList):
-    print("while ->",myList[ii])
-    ii=ii+2
+j=0
+while j < len(myList):
+    print("while ->",myList[j])
+    j=j+2
     
     
 x=10
