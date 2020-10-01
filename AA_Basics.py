@@ -16,7 +16,7 @@ print("C:\\network") # right
 print("\"Arpit\"")
 
 ######
-print("typechecking")
+print("Typechecking")
 var1 = 100
 var2 = 100.12
 var3 = "100" 
