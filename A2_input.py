@@ -11,3 +11,7 @@ print("Enter a number to double")
 t=input()
 print(t*2) ### repeated number
 print(int(t)*2)  # typecast string into int
+
+#Taking list as input:
+y= list(map(int,input().split()))
+print(y)
