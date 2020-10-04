@@ -36,3 +36,8 @@ print(int(strng))
 
 ### extra
 print(10*"Arpit")
+
+#output using .format
+print("The value of var1 is: {}, val2 is: {} and var3 is: {}".format(var1,var2,var3))
+#one more example:
+print("Value of var4 is {} and var5 is {}".format(23,46))
